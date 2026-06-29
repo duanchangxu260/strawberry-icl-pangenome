@@ -1,0 +1,13 @@
+##gff-version 3
+Chr1	Fvesca_v4.0	gene	1000	5000	.	+	.	ID=FvH4_1g00010;Name=ICL
+Chr1	Fvesca_v4.0	mRNA	1000	5000	.	+	.	ID=FvH4_1g00010.1;Parent=FvH4_1g00010
+Chr1	Fvesca_v4.0	exon	1000	1200	.	+	.	Parent=FvH4_1g00010.1
+Chr1	Fvesca_v4.0	CDS	1000	1200	.	+	0	Parent=FvH4_1g00010.1
+Chr1	Fvesca_v4.0	exon	1800	2100	.	+	.	Parent=FvH4_1g00010.1
+Chr1	Fvesca_v4.0	CDS	1800	2100	.	+	1	Parent=FvH4_1g00010.1
+Chr1	Fvesca_v4.0	exon	2800	3100	.	+	.	Parent=FvH4_1g00010.1
+Chr1	Fvesca_v4.0	CDS	2800	3100	.	+	2	Parent=FvH4_1g00010.1
+Chr1	Fvesca_v4.0	exon	3800	4100	.	+	.	Parent=FvH4_1g00010.1
+Chr1	Fvesca_v4.0	CDS	3800	4100	.	+	0	Parent=FvH4_1g00010.1
+Chr1	Fvesca_v4.0	exon	4600	5000	.	+	.	Parent=FvH4_1g00010.1
+Chr1	Fvesca_v4.0	CDS	4600	5000	.	+	0	Parent=FvH4_1g00010.1

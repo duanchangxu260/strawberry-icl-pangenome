@@ -1,0 +1,13 @@
+##gff-version 3
+Chr2	Fiinumae_v1.0	gene	5000	9500	.	-	.	ID=Fi_1g00250;Name=ICL
+Chr2	Fiinumae_v1.0	mRNA	5000	9500	.	-	.	ID=Fi_1g00250.1;Parent=Fi_1g00250
+Chr2	Fiinumae_v1.0	exon	5000	5300	.	-	.	Parent=Fi_1g00250.1
+Chr2	Fiinumae_v1.0	CDS	5000	5300	.	-	0	Parent=Fi_1g00250.1
+Chr2	Fiinumae_v1.0	exon	6000	6400	.	-	.	Parent=Fi_1g00250.1
+Chr2	Fiinumae_v1.0	CDS	6000	6400	.	-	2	Parent=Fi_1g00250.1
+Chr2	Fiinumae_v1.0	exon	7200	7500	.	-	.	Parent=Fi_1g00250.1
+Chr2	Fiinumae_v1.0	CDS	7200	7500	.	-	1	Parent=Fi_1g00250.1
+Chr2	Fiinumae_v1.0	exon	8200	8600	.	-	.	Parent=Fi_1g00250.1
+Chr2	Fiinumae_v1.0	CDS	8200	8600	.	-	0	Parent=Fi_1g00250.1
+Chr2	Fiinumae_v1.0	exon	9000	9500	.	-	.	Parent=Fi_1g00250.1
+Chr2	Fiinumae_v1.0	CDS	9000	9500	.	-	0	Parent=Fi_1g00250.1
